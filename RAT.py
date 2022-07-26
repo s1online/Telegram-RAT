@@ -2,8 +2,8 @@ from API import *
 
 
 # Token/ID
-TelegramToken = 'TOKEN'
-TelegramChatID = 'ID'
+TelegramToken = '5427249630:AAHJiAraTotMBDwWhquP5MZjNl6fw1PWBzU'
+TelegramChatID = '5456612859'
 
 
 # Run the script as administrator
